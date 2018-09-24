@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package asis3;
+package asistensi3;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import asis3.student;
-import asis3.demo;
+import asistensi3.student;
+import asistensi3.demo;
 
 /**
  *
